@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Do it</title>
+    <link>http://su47flying.github.io/</link>
+    <description>Recent content on Do it</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 May 2022 12:49:27 +0800</lastBuildDate><atom:link href="http://su47flying.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Qemu</title>
+      <link>http://su47flying.github.io/post/qemu/</link>
+      <pubDate>Tue, 03 May 2022 12:49:27 +0800</pubDate>
+      
+      <guid>http://su47flying.github.io/post/qemu/</guid>
+      <description>Qeme  qemu was a greate tool qemu quick start  live migration  migrate from one to the other  </description>
+    </item>
+    
+  </channel>
+</rss>
