@@ -6,7 +6,16 @@
     <description>Recent content on Do it</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 May 2022 12:49:27 +0800</lastBuildDate><atom:link href="http://su47flying.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Sep 2024 19:46:40 +0800</lastBuildDate><atom:link href="http://su47flying.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Virtio Net</title>
+      <link>http://su47flying.github.io/virtio/driver/virtio-net/</link>
+      <pubDate>Sat, 21 Sep 2024 19:46:40 +0800</pubDate>
+      
+      <guid>http://su47flying.github.io/virtio/driver/virtio-net/</guid>
+      <description>virtio net driver virtio net probe int probe() vriot net unprobe void unprobe() </description>
+    </item>
+    
     <item>
       <title>Qemu</title>
       <link>http://su47flying.github.io/post/qemu/</link>
